@@ -1,3 +1,5 @@
+export{};
+
 let arr = ["Sreenu",34,25.44];
 // console.log(arr);
 
